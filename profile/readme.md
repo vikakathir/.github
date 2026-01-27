@@ -34,7 +34,7 @@ Roll No | Name | Repo URL | Leetcode URL | Current Status
 30 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 31 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 32 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
-33 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
+33 | Nishanthan M  | [Github](https://github.com/Nishanthan45/Leetcode-tracker) | [Leetcode](https://leetcode.com/Nishanthan_ManikstAB4) | ![](https://leetcard.jacoblin.cool/Nishanthan_ManikstAB4)
 34 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 35 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
 36 |  | [Github]() | [Leetcode]() | ![](https://leetcard.jacoblin.cool/)
